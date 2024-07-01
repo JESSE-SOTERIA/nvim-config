@@ -1,0 +1,8 @@
+require("plugins.mason")
+require("plugins.mason")
+require("plugins.dap")
+require("plugins.git")
+require("plugins.lsp")
+require("plugins.lazy")
+require("plugins.autopairs")
+require("plugins.htmlcompletion")
